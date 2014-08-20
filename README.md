@@ -1,7 +1,7 @@
 # BlackHoleCharts
 
 Prevent error log spam from automatic requests to well known routes in Rails. This returns a minimal 404 response to any attempt
-to retrieve a well known route like apple-touch-icon or borwserconfig.xml.
+to retrieve a well known route like apple-touch-icon or browserconfig.xml.
 
 ## Installation
 
